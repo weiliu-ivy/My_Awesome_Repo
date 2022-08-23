@@ -3,6 +3,7 @@ Rekhter, et al.             Standards Track                     [Page 4]
 RFC 4271                         BGP-4                      January 2006
 
 
+      something added
       use several IGPs and, sometimes, several sets of metrics within an
       AS.  The use of the term Autonomous System stresses the fact that,
       even when multiple IGPs and metrics are used, the administration
