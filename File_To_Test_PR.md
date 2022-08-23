@@ -19,3 +19,31 @@ RFC 4271                         BGP-4                      January 2006
 
    BGP speaker
       A router that implements BGP.
+
+EBGP
+      External BGP (BGP connection between external peers).
+
+   External peer
+      Peer that is in a different Autonomous System than the local
+      system.
+
+   Feasible route
+      An advertised route that is available for use by the recipient.
+
+   IBGP
+      Internal BGP (BGP connection between internal peers).
+
+   Internal peer
+      Peer that is in the same Autonomous System as the local system.
+
+   IGP
+      Interior Gateway Protocol - a routing protocol used to exchange
+      routing information among routers within a single Autonomous
+      System.
+
+   Loc-RIB
+      The Loc-RIB contains the routes that have been selected by the
+      local BGP speaker's Decision Process.
+
+   NLRI
+      Network Layer Reachability Information.
