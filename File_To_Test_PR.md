@@ -1,5 +1,7 @@
 Rekhter, et al.             Standards Track                     [Page 4]
 
++one line
+
 RFC 4271                         BGP-4                      January 2006
 
 
